@@ -36,7 +36,7 @@ $EHEYCIGA = new Cuccia(
 );
 $Topbashgo = new Gioco(
     "Topbashgo",
-    "9,99",
+    "€9,99",
     "Palla Active Moving Pet, giocattolo interattivo",
     $pet,
     "ABS",
@@ -44,7 +44,7 @@ $Topbashgo = new Gioco(
 );
 $PETTOM = new Gioco(
     "Pettom",
-    "22,95",
+    "€22,95",
     "Giocattolo per gatti elettrico",
     $gatto,
     "Plastica"
